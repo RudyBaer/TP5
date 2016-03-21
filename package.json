@@ -1,0 +1,13 @@
+{
+  "name": "projet_TP5",
+  "description": "projet TP5",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "body-parser": "^1.13.2",
+    "express": "4.x"
+  },
+  "devDependencies": {
+    "jasmine-core": "^2.3.4"
+  }
+}
